@@ -1,0 +1,22 @@
+{
+  "name": "grunt-dpm",
+  "version": "0.1.3",
+  "description": "dianping manage grunt tasks",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivaxy/grunt-dpm.git"
+  },
+  "keywords": [
+    "grunt",
+    "dianping"
+  ],
+  "author": "youngjay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivaxy/grunt-dpm/issues"
+  },
+  "homepage": "https://github.com/vivaxy/grunt-dpm#readme"
+}
