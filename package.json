@@ -17,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/vivaxy/grunt-dpm/issues"
   },
-  "homepage": "https://github.com/vivaxy/grunt-dpm#readme"
+  "homepage": "https://github.com/vivaxy/grunt-dpm#readme",
+  "dependencies": {
+    "clean-css": "~1",
+    "connect": "*",
+    "console-colorjs": "*",
+    "less": "1.7.3",
+    "next.js": "~1",
+    "step": "*",
+    "uglify-js": "~1",
+    "underscore": "*",
+    "wrench": "*"
+  }
 }
