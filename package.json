@@ -1,6 +1,6 @@
 {
   "name": "grunt-dpm",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "dianping manage grunt tasks",
   "main": "index.js",
   "scripts": {},
